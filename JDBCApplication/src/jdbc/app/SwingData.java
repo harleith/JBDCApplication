@@ -23,7 +23,7 @@ public class SwingData extends javax.swing.JFrame {
         masukinDBKesini();
     }
     public void masukinDBKesini(){
-         Connection conn = null;
+        Connection conn = null;
         Statement stmt = null;
     
         try {
