@@ -15,7 +15,7 @@ import java.util.logging.Logger;
 import javax.swing.table.DefaultTableModel;
 /**
  *
- * @author user
+ * @author imam
  */
 public class SwingData extends javax.swing.JFrame {
 

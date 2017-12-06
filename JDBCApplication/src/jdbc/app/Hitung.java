@@ -15,7 +15,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author user
+ * @author imam
  */
 public class Hitung {
 
